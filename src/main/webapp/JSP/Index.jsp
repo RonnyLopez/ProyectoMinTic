@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Index</title>
+<title>Pagina de Prueba Index</title>
 </head>
 <body>
 <h1>Buenas Noches Señores</h1>
-
+<h2>Prueba con GitHub</h2>
 	<table border="2" width="300">
 		<tr>
 			<td height="30" width="40">Fila 1, celda 1</td>
